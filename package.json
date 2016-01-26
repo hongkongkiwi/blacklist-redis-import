@@ -1,0 +1,18 @@
+{
+  "name": "blacklist-redis-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "import-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Savage <andy@savage.hk> (http://andy.savage.hk)",
+  "license": "SEE LICENSE IN License.txt",
+  "dependencies": {
+    "async": "^1.5.2",
+    "event-stream": "^3.3.2",
+    "progress": "^1.1.8",
+    "redis": "^2.4.2",
+    "wc.js": "^0.1.5"
+  }
+}
